@@ -1,0 +1,29 @@
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhsgref_uniform_woodland", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_woodland_olive", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_flecktarn", {__ICE_gear_allRoles}},
+    {"B_CombatUniform_TB_CZ_vz95_woodland", {__ICE_gear_allRoles}},
+    {"rhsgref_uniform_tigerstripe", {__ICE_gear_allRoles}},
+	
+
+// VESTS
+	
+	// Infantry
+	{"V_TacVest_camo", {__ICE_gear_allRoles}},
+
+
+// HELMETS
+	
+	// Infantry
+	{"H_Cap_blk", {__ICE_gear_allRoles}},
+	{"H_Cap_oli", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive_hs", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_tan", {__ICE_gear_allRoles}},
+
+	
+};
